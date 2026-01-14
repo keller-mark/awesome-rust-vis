@@ -11,7 +11,7 @@ I have initially populated this list with tools found primarily via GitHub and c
   - [Coupled to GUI framework](#coupled-to-gui-framework)
   - [Terminal and ASCII outputs](#text-based-outputs)
 - [Bindings to rendering code in other languages](#bindings)
-  - [Grammar-based tools](#grammar-based)
+  - [Non-web-based](#non-web-based)
   - [Web-based](#web-based)
 
 
