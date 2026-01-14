@@ -36,12 +36,18 @@ By "Pure Rust", this means the visualization logic is primarily implemented in p
 - https://gitlab.com/Neek-sss/strafe/-/tree/master/strafe-plot
 
 ### WGPU-based
+
+Crates that use WGPU for plotting.
+
 - https://github.com/jonmmease/avenger
 - https://github.com/Ameyanagi/ruviz
 - https://github.com/maplibre/maplibre-rs
 - https://github.com/runmat-org/runmat/tree/main/crates/runmat-plot
 
 ### Coupled to GUI framework
+
+Crates in which the plot rendering is tightly coupled to a particular GUI framework. Some of these may also use WGPU for plotting, so this section may overlap somewhat with the "WGPU-based" section.
+
 - https://github.com/Joylei/plotters-iced (iced)
 - https://github.com/ulikoehler/liveplot-rs (egui)
 - https://github.com/pierreaubert/gpui-toolkit/tree/main/gpui-px (gpui)
@@ -65,6 +71,10 @@ Crates focused on terminal and ASCII-based plotting.
 
 This section includes bindings (to high-level visualization libraries implemented in other langauges) and wrappers and specification-based tools here.
 
+### Non-web-based
+
+These are bindings to plotting libraries implemented in other languages (e.g., Python), excluding web technologies (for these, see "Web-based" section below).
+
 - https://github.com/cpmech/plotpy (matplotlib)
 - https://github.com/SiegeLord/RustGnuplot (gnuplot)
 - https://github.com/ploteria/ploteria (gnuplot)
@@ -73,17 +83,14 @@ This section includes bindings (to high-level visualization libraries implemente
 - https://github.com/Latias94/dear-imgui-rs/tree/main/extensions/dear-implot (implot)
 - https://github.com/DJDuque/pgfplots (latex)
 
-### Grammar-based
+
+### Web-based
 
 - https://github.com/georgestagg/ggsql (vega-lite)
 - https://github.com/procyon-rs/vega_lite_4.rs (vega-lite)
 - https://github.com/wangjiawen2013/charton (vega-lite ?)
 - https://github.com/cuprous-au/vega-view (vega-lite)
 - https://github.com/alignoth/alignoth (vega-lite)
-
-
-### Web-based
-
 - https://github.com/plotly/plotly.rs (plotly)
 - https://github.com/alceal/plotlars (plotly)
 - https://github.com/yuankunzhang/charming (apache echarts)
