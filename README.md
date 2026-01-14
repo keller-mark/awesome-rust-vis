@@ -29,7 +29,6 @@ By "Pure Rust", this means the __visualization logic__ is implemented in pure Ru
 - https://github.com/coder543/dataplotlib
 - https://github.com/limads/papyri
 - https://github.com/ibrahimcesar/velociplot
-- https://github.com/Ameyanagi/ruviz
 - https://github.com/jonfres/fluent-plots
 - https://github.com/BlondeBurrito/plotrs
 - https://github.com/rtbo/plotive
@@ -39,11 +38,12 @@ By "Pure Rust", this means the __visualization logic__ is implemented in pure Ru
 
 Crates that use [WGPU](https://github.com/gfx-rs/wgpu) for plotting.
 
+- https://github.com/rerun-io/rerun
 - https://github.com/jonmmease/avenger
-- https://github.com/Ameyanagi/ruviz
 - https://github.com/maplibre/maplibre-rs
 - https://github.com/runmat-org/runmat/tree/main/crates/runmat-plot
-
+- https://github.com/Ameyanagi/ruviz
+- 
 ### Coupled to GUI framework
 
 Crates in which the plot rendering is tightly coupled to a particular GUI framework. Some of these may also use WGPU for plotting, so this section may overlap somewhat with the "WGPU-based" section.
