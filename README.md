@@ -10,7 +10,7 @@ I have initially populated this list with tools discovered via GitHub and crates
   - [wgpu-based tools](#wgpu-based)
   - [Coupled to GUI framework](#coupled-to-gui-framework)
   - [Terminal and ASCII outputs](#text-based-outputs)
-- [Bindings to rendering code in other languages](#bindings)
+- [Bindings to visualization rendering code in other languages](#bindings)
   - [Non-web-based](#non-web-based)
   - [Web-based](#web-based)
 
