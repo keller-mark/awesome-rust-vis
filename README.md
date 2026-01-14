@@ -69,7 +69,7 @@ Crates focused on terminal and ASCII-based plotting.
 
 ## Bindings
 
-This section includes bindings (to high-level visualization libraries implemented in other langauges) and wrappers and specification-based tools here.
+This section includes bindings (to high-level visualization libraries implemented in other langauges).
 
 ### Non-web-based
 
