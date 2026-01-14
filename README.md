@@ -37,7 +37,7 @@ By "Pure Rust", this means the __visualization logic__ is implemented in pure Ru
 
 ### WGPU-based
 
-Crates that use WGPU for plotting.
+Crates that use [WGPU](https://github.com/gfx-rs/wgpu) for plotting.
 
 - https://github.com/jonmmease/avenger
 - https://github.com/Ameyanagi/ruviz
