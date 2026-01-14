@@ -39,6 +39,7 @@ By "Pure Rust", this means the visualization logic is in pure Rust. However, it 
 - https://github.com/jonmmease/avenger
 - https://github.com/Ameyanagi/ruviz
 - https://github.com/maplibre/maplibre-rs
+- https://github.com/runmat-org/runmat/tree/main/crates/runmat-plot
 
 ### Coupled to GUI framework
 - https://github.com/Joylei/plotters-iced (iced)
@@ -56,13 +57,13 @@ By "Pure Rust", this means the visualization logic is in pure Rust. However, it 
 
 ### Text-based outputs
 
+Crates focused on terminal and ASCII-based plotting.
 
+- https://github.com/milliams/plot
 
 ## Bindings
 
 This section includes bindings (to high-level visualization libraries implemented in other langauges) and wrappers and specification-based tools here.
-Some of the above "Pure Rust" 
-
 
 - https://github.com/cpmech/plotpy (matplotlib)
 - https://github.com/SiegeLord/RustGnuplot (gnuplot)
