@@ -3,7 +3,7 @@
 > Rust crates for data visualization and plotting.
 
 The items on the list should be reusable crates (rather than one-off plot implementations that are coupled to particular datasets and are not designed to be reused).
-I have initially populated this list with tools found primarily via GitHub and crates.io (using both tags and keyword searches).
+I have initially populated this list with tools discovered via GitHub and crates.io (using both tags and keyword searches).
 
 ## Contents
 - [Pure Rust](#pure-rust)
