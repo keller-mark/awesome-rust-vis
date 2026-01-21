@@ -122,4 +122,5 @@ TODO: Does it make sense to include these in this list?
 ## Related Lists
 
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+- [awesome-webgpu](https://github.com/mikbry/awesome-webgpu)
 - [awesome-biological-visualizations](https://github.com/keller-mark/awesome-biological-visualizations)
