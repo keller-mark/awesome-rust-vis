@@ -33,6 +33,7 @@ By "Pure Rust", this means the __visualization logic__ is implemented in pure Ru
 - https://github.com/BlondeBurrito/plotrs
 - https://github.com/rtbo/plotive
 - https://gitlab.com/Neek-sss/strafe/-/tree/master/strafe-plot
+- https://github.com/vicanso/charts-rs
 
 ### WGPU-based
 
