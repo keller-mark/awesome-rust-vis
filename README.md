@@ -69,6 +69,7 @@ Crates in which the plot rendering is tightly coupled to a particular GUI framew
 Crates focused on terminal and ASCII-based plotting.
 
 - https://github.com/milliams/plot
+- https://github.com/EdCarney/termplt
 
 ## Bindings
 
