@@ -53,7 +53,7 @@ Crates in which the plot rendering is tightly coupled to a particular GUI framew
 
 - https://github.com/Joylei/plotters-iced (iced)
 - https://github.com/ulikoehler/liveplot-rs (egui)
-- https://github.com/pierreaubert/gpui-toolkit/tree/main/gpui-px (gpui)
+- https://github.com/pierreaubert/gpui-toolkit/tree/main/crates/gpui-px (gpui)
 - https://github.com/bgkillas/kalc-plot (kalc, egui?)
 - https://github.com/emilk/egui_plot (egui)
 - https://github.com/donkeyteethUX/iced_plot (iced)
