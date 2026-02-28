@@ -105,28 +105,9 @@ These are bindings to plotting libraries implemented in other languages (e.g., P
 - https://github.com/micouy/plotka (multiple)
 
 
-## Lower-level 2D and 3D rendering / general purpose graphics libraries
-
-TODO: Does it make sense to include these in this list?
-
-- https://github.com/gfx-rs/wgpu
-- https://github.com/linebender/vello
-- https://github.com/google/forma
-- https://github.com/parasyte/pixels
-- https://github.com/femtovg/femtovg
-- https://github.com/dimforge/kiss3d
-- https://github.com/MeadowlarkDAW/rootvg
-- https://github.com/audulus/vger-rs
-- https://github.com/UE2020/bufro
-- https://github.com/schell/renderling
-- https://github.com/BVE-Reborn/rend3
-- https://github.com/DavidPeicho/albedo
-- https://github.com/nannou-org/nannou
-- https://github.com/AryanpurTech/BlueEngine
-- https://github.com/ftilde/palace
-
 ## Related Lists
 
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 - [awesome-webgpu](https://github.com/mikbry/awesome-webgpu)
 - [awesome-biological-visualizations](https://github.com/keller-mark/awesome-biological-visualizations)
+- [rust-in-bioinformatics](https://github.com/sharkLoc/rust-in-bioinformatics)
