@@ -20,7 +20,7 @@ Please let me know (via issues or PRs) if I got any categorizations incorrect (I
 
 ## Pure Rust
 
-By "Pure Rust", this means the __visualization logic__ is implemented in pure Rust. (Note that some of these are still "bindings" to lower-level graphics libraries like Cairo. Even WGPU could be considered a "binding" to the lower-level Metal/Vulkan/etc APIs.)
+By "Pure Rust", this means the __visualization logic__ is implemented in pure Rust. (Note that some of these are still "bindings" to lower-level general-purpose graphics libraries like Cairo. Even WGPU could be considered a "binding" to the lower-level Metal/Vulkan/etc APIs.)
 
 
 - https://github.com/plotters-rs/plotters
