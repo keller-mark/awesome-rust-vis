@@ -71,6 +71,7 @@ Crates focused on terminal and ASCII-based plotting.
 
 - https://github.com/milliams/plot
 - https://github.com/EdCarney/termplt
+- https://github.com/nrminor/youplot-rs
 
 ## Bindings
 
