@@ -110,4 +110,5 @@ These are bindings to plotting libraries implemented in other languages (e.g., P
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 - [awesome-webgpu](https://github.com/mikbry/awesome-webgpu)
 - [awesome-biological-visualizations](https://github.com/keller-mark/awesome-biological-visualizations)
+- [awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization)
 - [rust-in-bioinformatics](https://github.com/sharkLoc/rust-in-bioinformatics)
