@@ -35,6 +35,7 @@ By "Pure Rust", this means the __visualization logic__ is implemented in pure Ru
 - https://gitlab.com/Neek-sss/strafe/-/tree/master/strafe-plot
 - https://github.com/vicanso/charts-rs
 - https://github.com/Psy-Fer/kuva
+- https://github.com/Ensembl/ensembl-dauphin-style-compiler
 
 ### WGPU-based
 
