@@ -94,6 +94,7 @@ These are bindings to plotting libraries implemented in other languages (e.g., P
 ### Web-based
 
 - https://github.com/georgestagg/ggsql (vega-lite)
+- https://github.com/procyon-rs/vega_lite_3.rs (vega-lite)
 - https://github.com/procyon-rs/vega_lite_4.rs (vega-lite)
 - https://github.com/wangjiawen2013/charton (vega-lite ?)
 - https://github.com/cuprous-au/vega-view (vega-lite)
