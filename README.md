@@ -65,6 +65,7 @@ Crates in which the plot rendering is tightly coupled to a particular GUI framew
 - https://github.com/hacknus/bevy_voxel_plot (bevy)
 - https://github.com/rtbo/plotive/tree/main/iced (iced)
 - https://github.com/alexcoulton/odon (egui)
+- https://github.com/henriksson-lab/omezarr_viewers-rs (WebGL via web_sys)
 
 
 ### Text-based outputs
