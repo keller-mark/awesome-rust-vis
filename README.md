@@ -35,7 +35,6 @@ By "Pure Rust", this means the __visualization logic__ is implemented in pure Ru
 - https://gitlab.com/Neek-sss/strafe/-/tree/master/strafe-plot
 - https://github.com/vicanso/charts-rs
 - https://github.com/Psy-Fer/kuva
-- https://github.com/Ensembl/ensembl-dauphin-style-compiler
 
 ### WGPU-based
 
@@ -66,6 +65,7 @@ Crates in which the plot rendering is tightly coupled to a particular GUI framew
 - https://github.com/rtbo/plotive/tree/main/iced (iced)
 - https://github.com/alexcoulton/odon (egui)
 - https://github.com/henriksson-lab/omezarr_viewers-rs (WebGL via web_sys)
+- https://github.com/Ensembl/ensembl-dauphin-style-compiler (WebGL via web_sys)
 
 
 ### Text-based outputs
