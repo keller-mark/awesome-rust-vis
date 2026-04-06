@@ -66,7 +66,7 @@ Crates in which the plot rendering is tightly coupled to a particular GUI framew
 - https://github.com/alexcoulton/odon (egui)
 - https://github.com/henriksson-lab/omezarr_viewers-rs (WebGL via web_sys)
 - https://github.com/Ensembl/ensembl-dauphin-style-compiler (WebGL via web_sys)
-
+- https://github.com/David-OConnor/molchanica (egui)
 
 ### Text-based outputs
 
