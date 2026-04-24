@@ -46,6 +46,7 @@ Crates that use [WGPU](https://github.com/gfx-rs/wgpu) for plotting.
 - https://github.com/runmat-org/runmat/tree/main/crates/runmat-plot
 - https://github.com/Ameyanagi/ruviz
 - https://github.com/forest-rs/vizir
+- https://github.com/keller-mark/pluot
 
 
 ### Coupled to GUI framework
