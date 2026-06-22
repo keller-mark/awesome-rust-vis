@@ -47,6 +47,7 @@ Crates that use [WGPU](https://github.com/gfx-rs/wgpu) for plotting.
 - https://github.com/Ameyanagi/ruviz
 - https://github.com/forest-rs/vizir
 - https://github.com/keller-mark/pluot
+- https://github.com/posit-dev/hephaestus
 
 
 ### Coupled to GUI framework
