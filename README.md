@@ -48,6 +48,7 @@ Crates that use [WGPU](https://github.com/gfx-rs/wgpu) for plotting.
 - https://github.com/forest-rs/vizir
 - https://github.com/keller-mark/pluot
 - https://github.com/posit-dev/hephaestus
+- https://github.com/aganders3/bovista
 
 
 ### Coupled to GUI framework
@@ -69,6 +70,7 @@ Crates in which the plot rendering is tightly coupled to a particular GUI framew
 - https://github.com/henriksson-lab/omezarr_viewers-rs (WebGL via web_sys)
 - https://github.com/Ensembl/ensembl-dauphin-style-compiler (WebGL via web_sys)
 - https://github.com/David-OConnor/molchanica (egui)
+- https://github.com/lazarusA/octant (egui)
 
 ### Text-based outputs
 
