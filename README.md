@@ -71,6 +71,7 @@ Crates in which the plot rendering is tightly coupled to a particular GUI framew
 - https://github.com/Ensembl/ensembl-dauphin-style-compiler (WebGL via web_sys)
 - https://github.com/David-OConnor/molchanica (egui)
 - https://github.com/lazarusA/octant (egui)
+- https://github.com/zortax/zgui-flow (zgui)
 
 ### Text-based outputs
 
